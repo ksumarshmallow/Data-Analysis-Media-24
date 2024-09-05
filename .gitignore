@@ -1,0 +1,20 @@
+# Игнорировать файлы кэширования
+__pycache__/
+*.py[cod]
+
+# Игнорировать виртуальные окружения
+venv/
+
+# Игнорировать все файлы .log
+*.log
+
+# Игнорировать папки
+Docs/
+Seminars/Sem1/01_02_Intro_to_pandas.ipynb
+Seminars/Sem1/Intro_to_numpy.ipynb
+Seminars/Sem1/Lecture1_Media.ipynb
+Seminars/Sem1/seminar01_practise.ipynb
+Seminars/Sem1/data/
+
+# Игнорировать файлы с расширением .env
+*.env
