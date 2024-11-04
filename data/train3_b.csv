@@ -1,0 +1,159 @@
+Country,Region,Economy,Health
+Switzerland,J,1.4,0.94
+Iceland,J,1.3,0.95
+Denmark,J,1.33,0.87
+Norway,J,1.46,0.89
+Canada,F,1.33,0.91
+Finland,J,1.29,0.89
+Netherlands,J,1.33,0.89
+Sweden,J,1.33,0.91
+New Zealand,A,1.25,0.91
+Australia,A,1.33,0.93
+Israel,E,1.23,0.91
+Costa Rica,D,0.96,0.86
+Austria,J,1.34,0.89
+Mexico,D,1.02,0.81
+United States,F,1.39,0.86
+Brazil,D,0.98,0.7
+Luxembourg,J,1.56,0.92
+Ireland,J,1.34,0.9
+Belgium,J,1.31,0.9
+United Arab Emirates,E,1.43,0.81
+United Kingdom,J,1.27,0.91
+Oman,E,1.36,0.76
+Venezuela,D,1.04,0.72
+Singapore,G,1.52,1.03
+Panama,D,1.06,0.8
+Germany,J,1.33,0.89
+Chile,D,1.11,0.86
+Qatar,E,1.69,0.8
+France,J,1.28,0.95
+Argentina,D,1.05,0.79
+Czech Republic,B,1.18,0.84
+Uruguay,D,1.06,0.81
+Colombia,D,0.92,0.69
+Thailand,G,0.97,0.74
+Saudi Arabia,E,1.4,0.72
+Spain,J,1.23,0.96
+Malta,J,1.21,0.89
+Taiwan,C,1.29,0.88
+Kuwait,E,1.55,0.72
+Suriname,D,1.0,0.61
+Trinidad and Tobago,D,1.21,0.61
+El Salvador,D,0.76,0.68
+Guatemala,D,0.75,0.64
+Uzbekistan,B,0.63,0.6
+Slovakia,B,1.17,0.79
+Japan,C,1.27,0.99
+South Korea,C,1.24,0.97
+Ecuador,D,0.86,0.79
+Bahrain,E,1.32,0.75
+Italy,J,1.25,0.95
+Bolivia,D,0.68,0.54
+Moldova,B,0.59,0.62
+Paraguay,D,0.76,0.66
+Kazakhstan,B,1.12,0.64
+Slovenia,B,1.18,0.87
+Lithuania,B,1.15,0.73
+Nicaragua,D,0.59,0.74
+Peru,D,0.9,0.73
+Belarus,B,1.03,0.74
+Poland,B,1.13,0.78
+Malaysia,G,1.12,0.72
+Croatia,B,1.08,0.79
+Libya,E,1.13,0.7
+Russia,B,1.14,0.67
+Jamaica,D,0.81,0.69
+North Cyprus,J,1.21,0.92
+Cyprus,J,1.21,0.92
+Algeria,E,0.94,0.62
+Kosovo,B,0.8,0.63
+Turkmenistan,B,0.96,0.54
+Mauritius,I,1.01,0.71
+Hong Kong,C,1.39,1.01
+Estonia,B,1.15,0.77
+Indonesia,G,0.83,0.64
+Vietnam,G,0.63,0.75
+Turkey,E,1.06,0.73
+Kyrgyzstan,B,0.47,0.65
+Nigeria,I,0.65,0.16
+Bhutan,H,0.77,0.57
+Azerbaijan,B,1.02,0.64
+Pakistan,H,0.6,0.51
+Jordan,E,0.9,0.7
+Montenegro,B,0.97,0.73
+China,C,0.89,0.82
+Zambia,I,0.47,0.3
+Romania,B,1.04,0.77
+Serbia,B,0.92,0.75
+Portugal,J,1.16,0.88
+Latvia,B,1.11,0.72
+Philippines,G,0.71,0.58
+Somaliland region,I,0.19,0.44
+Morocco,E,0.73,0.61
+Macedonia,B,0.92,0.74
+Mozambique,I,0.08,0.09
+Albania,B,0.88,0.81
+Bosnia and Herzegovina,B,0.83,0.79
+Lesotho,I,0.38,0.08
+Dominican Republic,D,0.9,0.67
+Laos,G,0.59,0.55
+Mongolia,C,0.83,0.6
+Swaziland,I,0.71,0.08
+Greece,J,1.15,0.88
+Lebanon,E,1.03,0.84
+Hungary,B,1.12,0.76
+Honduras,D,0.6,0.7
+Tajikistan,B,0.39,0.57
+Tunisia,E,0.88,0.74
+Palestinian Territories,E,0.6,0.66
+Bangladesh,H,0.4,0.6
+Iran,E,1.01,0.7
+Ukraine,B,0.8,0.67
+Iraq,E,0.99,0.6
+South Africa,I,0.92,0.28
+Ghana,I,0.55,0.4
+Zimbabwe,I,0.27,0.33
+Liberia,I,0.07,0.34
+India,H,0.64,0.52
+Sudan,I,0.52,0.37
+Haiti,D,0.27,0.39
+Congo (Kinshasa),I,0.0,0.1
+Nepal,H,0.36,0.57
+Ethiopia,I,0.19,0.44
+Sierra Leone,I,0.33,0.0
+Mauritania,I,0.45,0.36
+Kenya,I,0.36,0.41
+Djibouti,I,0.44,0.36
+Armenia,B,0.77,0.73
+Botswana,I,0.99,0.05
+Myanmar,G,0.27,0.48
+Georgia,B,0.74,0.73
+Malawi,I,0.02,0.23
+Sri Lanka,H,0.84,0.71
+Cameroon,I,0.42,0.23
+Bulgaria,B,1.01,0.77
+Egypt,E,0.88,0.62
+Yemen,E,0.55,0.4
+Angola,I,0.76,0.17
+Mali,I,0.26,0.21
+Congo (Brazzaville),I,0.68,0.31
+Comoros,I,0.24,0.36
+Uganda,I,0.21,0.34
+Senegal,I,0.36,0.44
+Gabon,I,1.06,0.43
+Niger,I,0.07,0.3
+Cambodia,G,0.46,0.61
+Tanzania,I,0.29,0.38
+Madagascar,I,0.21,0.47
+Central African Republic,I,0.08,0.07
+Chad,I,0.34,0.15
+Guinea,I,0.17,0.24
+Ivory Coast,I,0.47,0.15
+Burkina Faso,I,0.26,0.27
+Afghanistan,H,0.32,0.3
+Rwanda,I,0.22,0.43
+Benin,I,0.29,0.32
+Syria,E,0.66,0.72
+Burundi,I,0.02,0.22
+Togo,I,0.21,0.28

@@ -1,0 +1,377 @@
+Resort,Country,HighestPoint,LowestPoint,DayPassPriceAdult,TotalSlope,NightSki,TotalLifts,LiftCapacity
+Alpendorf (Ski amedé),Austria,1980,740,52,115,No,49,75398
+Soldeu-Pas de la Casa/​Grau Roig/​El Tarter/​Canillo/​Encamp (Grandvalira),Andorra,2640,1710,47,210,Yes,72,99017
+Oberau (Wildschönau),Austria,1130,900,30,2,No,2,1932
+Dachstein West,Austria,1620,780,42,51,Yes,36,32938
+Rosa Khutor,Southern Russia,2320,940,22,77,No,27,49228
+Białka Tatrzańska-Kotelnica-​Kaniówka-​Bania,Poland,910,680,23,16,Yes,8,28020
+Vitosha-Sofia,Bulgaria,2290,726,18,20,Yes,15,12450
+Szczyrk-Skrzyczne,Poland,1257,524,20,35,No,16,22500
+Jahorina,Bosnia and Herzegovina,1889,920,20,25,Yes,11,16230
+Kobla-Bohinj,Slovenia,1480,540,22,23,No,6,5720
+Aillons-Margériaz,France,1785,1370,19,24,No,8,10025
+Gornaya Karusel,Southern Russia,960,540,22,20,No,4,15740
+Kaiseregg-​Riggisalp-Schwarzsee,Switzerland,1750,1050,34,20,Yes,15,5790
+St. Pierre de Chartreuse-Le Planolet,France,1800,900,21,35,No,5,12610
+Buchenberg-Buching-Halblech-,Germany,1140,810,25,6,No,3,2800
+Méribel (Les 3 Vallées),France,3230,1110,61,600,Yes,165,250860
+​Les Menuires (Les 3 Vallées),France,3230,1110,61,600,Yes,165,250860
+Les Sybelles-Le Corbier-​La Toussuire-​Les Bottières-​St Colomban des Villards-​St Sorlin-​St Jean d’Arves,France,2620,1100,44,310,Yes,72,83807
+Le Grand Massif-Flaine-​Les Carroz-​Morillon-​Samoëns-​Sixt,France,2476,694,47,265,No,72,97624
+Megève-​Saint-Gervais,France,2353,850,46,263,Yes,86,106362
+Laax-​Flims-​Falera,Switzerland,3018,1100,68,188,No,33,46116
+Vars-​Risoul-La Forêt Blanche,France,2750,1650,39,185,Yes,51,50145
+Kicking Horse,France,1608,1500,39,180,No,38,40680
+Le Grand Domaine-Valmorel-​Doucy-​Celliers-​St François Longchamp,France,2550,1250,44,165,No,56,60248
+Galibier Thabor-Valmeinier-​Valloire,France,2594,1430,39,150,Yes,31,43300
+Zillertal Arena-Zell am Ziller-​Gerlos-​Königsleiten-​Hochkrimml,Austria,2500,580,52,143,No,56,89415
+La Molina-​Masella-Alp2500,Spain,2531,1616,45,141,Yes,33,39750
+Auron-Saint-Etienne-de-Tinée-,France,1600,1150,34,135,No,19,25030
+Alta Badia,Italy,2550,1324,52,130,No,59,89327
+La Clusaz-​Manigod,France,2477,1040,37,125,Yes,49,59346
+Espace Villard Corrençon-Villard-de-Lans-​Corrençon-en-Vercors,France,2050,1050,36,125,No,28,26600
+Val Cenis-Lanslevillard-​Lanslebourg-​Termignon,France,2800,1300,36,125,Yes,28,39824
+Isola 2000,France,2603,1800,34,120,Yes,22,21807
+Obersaxen-​Mundaun-​Val Lumnezia,Switzerland,2310,1201,51,120,Yes,19,20720
+Les 7 Laux-Prapoutel-​Le Pleynet-​Pipay,France,2400,1350,36,120,No,24,32232
+Corvatsch-​Furtschellas,Switzerland,3303,1797,69,120,Yes,14,18510
+Nassfeld-Hermagor,Austria,2002,600,46,110,Yes,30,49386
+Mondolè Ski-Artesina-​Frabosa Soprana-​Prato Nevoso,Italy,807,803,33,105,Yes,33,26068
+Aletsch Arena-Riederalp-​Bettmeralp-​Fiesch Eggishorn,Switzerland,1845,759,53,104,Yes,38,41109
+Bad Kleinkirchheim-​St. Oswald,Austria,2055,1087,47,103,Yes,28,31186
+Bardonecchia,Italy,2694,1312,36,100,No,23,27588
+Saint-Lary-Soulan,France,1600,812,42,100,Yes,31,38733
+Orcières Merlette 1850,France,2725,1850,34,100,No,30,29605
+Dévoluy-Superdévoluy-​La Joue du Loup,France,2450,1450,36,100,No,24,27646
+Grand Tourmalet-​Pic du Midi-La Mongie-​Barèges,France,2500,1250,42,100,No,38,40231
+Parsenn (Davos Klosters),Switzerland,2844,810,61,96,No,18,26795
+Åre,Sweden,1274,380,45,91,Yes,36,39000
+Alto Sangro-Roccaraso-​Rivisondoli,Italy,2141,1309,41,90,No,26,36602
+Chamrousse,France,2250,1400,34,90,Yes,16,24398
+Valberg-​Beuil les Launes,France,2020,1412,32,90,No,29,25940
+Adelboden-​Lenk-Chuenisbärgli-​Silleren-​Hahnenmoos-​Metsch,Switzerland,1260,1072,55,88,Yes,26,34620
+Rinderberg-​Saanerslochgrat-​Horneggli-Zweisimmen-​Saanenmöser-​Schönried-​St. Stephan,Switzerland,2011,948,54,88,Yes,21,18360
+Graukogel-Bad Gastein,Austria,2007,1079,36,11,No,3,3352
+Les Portes du Mont-Blanc-Combloux-​Megève le Jaillet-​La Giettaz,France,1835,1113,35,85,No,25,29842
+Le Grand Bornand,France,2100,1000,37,84,Yes,33,36904
+Kaltenbach-Hochzillertal-​Hochfügen-SKi-optimal-,Austria,2378,600,52,83,Yes,39,59933
+Grimentz-​Zinal,Switzerland,2900,1570,51,80,No,21,19345
+Civetta-Alleghe-​Selva di Cadore-​Palafavera-​Zoldo,Italy,2100,1000,43,80,Yes,23,33289
+Ax les Thermes,France,1400,720,37,80,No,19,21320
+Damüls Mellau,Austria,2050,690,49,79,No,25,37160
+Zell am See,Austria,2000,760,50,77,Yes,27,48407
+Cerler,Spain,2621,1505,42,76,No,19,20670
+Three Peaks Dolomites-Helm-​Stiergarten-​Rotwand-​Kreuzbergpass,Italy,2200,1130,51,75,No,30,21535
+Puy St. Vincent,France,2677,1407,34,75,Yes,12,17155
+Folgaria-​Fiorentini,Italy,1850,1200,40,74,No,30,35900
+Titlis-Engelberg,Switzerland,3020,1000,57,72,No,20,23316
+Trysil,Norway,1100,415,46,71,Yes,36,36182
+Nauders am Reschenpass-Bergkastel,Austria,2850,1400,42,71,No,17,17651
+Grossarltal-​Dorfgastein,Austria,2033,850,50,70,No,20,29710
+Katschberg,Austria,2220,1066,46,70,Yes,17,26458
+Valfréjus,France,2737,1550,29,70,No,10,15800
+Savognin,Switzerland,2713,1200,50,70,Yes,13,14000
+Scuol-Motta Naluns,Switzerland,2785,1250,50,70,No,13,18000
+Passo San Pellegrino-​Falcade,Italy,2513,1190,47,67,No,17,24030
+Piau Engaly,France,2560,1420,37,65,No,10,13615
+Flumserberg,Switzerland,665,425,51,65,Yes,21,30867
+Super Sauze,France,2450,1400,30,65,No,22,17948
+Bukovel,Ukraine,1372,890,32,65,Yes,18,33839
+La Norma,France,2750,1350,29,65,No,13,13290
+Pal-​Arinsal-La Massana-Vallnord-,Andorra,1550,1230,37,63,No,31,37400
+Arabba,Italy,2478,1602,49,62,No,23,43973
+Wildkogel-Neukirchen-​Bramberg,Austria,2150,820,44,62,Yes,24,27388
+Hintertux Glacier,Austria,3250,1500,52,60,No,22,38852
+Disentis 3000,Switzerland,2833,1227,49,60,No,13,10990
+Belalp-Blatten,Switzerland,3118,1322,49,60,No,13,13640
+San Martino di Castrozza,Italy,2357,1404,44,60,Yes,24,29859
+Meiringen-Hasliberg,Switzerland,1055,600,50,60,Yes,15,16381
+Toggenburg-Wildhaus-​Unterwasser-​Alt St. Johann,Switzerland,2262,900,52,60,Yes,25,19956
+Alpe di Siusi-Seiser Alm-,Italy,1669,1000,54,60,No,27,35624
+Le Lioran,France,1850,1160,31,60,Yes,22,25195
+Saint Luc-​Chandolin-Anniviers-,Switzerland,3025,1655,47,60,No,15,10350
+Les Karellis,France,2520,1600,27,60,No,16,17452
+Peyragudes,France,2400,1600,40,60,No,17,22791
+Leysin,Switzerland,2205,1250,45,60,No,16,12980
+Ponte di Legno-Passo ​Tonale-​Presena Glacier-​Temù-Pontedilegno-Tonale-,Italy,3016,1121,42,59,Yes,30,49825
+Eggli-​La Videmanette-Gstaad-​Saanen-​Rougemont,Switzerland,2151,992,54,58,No,17,15363
+Anzère,Switzerland,2420,1500,46,58,No,14,12462
+Borovets,Bulgaria,2560,1300,28,58,Yes,14,15800
+Font-Romeu-​Bolquère Pyrénées 2000,France,2213,1650,38,58,No,24,27378
+Oppdal,Norway,1300,585,44,56,No,1,0
+Brévent-​Flégère-Chamonix-,France,2525,1030,51,56,No,19,26734
+Les Houches-​Saint-Gervais-Prarion-​Bellevue-Chamonix-,France,1000,584,43,55,No,16,19859
+Ylläs,Finland,718,200,42,55,Yes,29,28284
+Belvedere-​Col Rodella-​Ciampac-​Buffaure-Canazei-​Campitello-​Alba-​Pozza di Fassa,Italy,2428,1320,48,55,Yes,39,56216
+Lauchernalp-Lötschental,Switzerland,3111,1419,48,55,No,6,6800
+Grossglockner Heiligenblut,Austria,2989,1301,44,55,No,13,12500
+Brandnertal-Brand-​Bürserberg,Austria,2000,904,46,55,Yes,15,18963
+Alpe du Grand-Serre-La Morte,France,2184,1367,27,55,No,15,13486
+Les Angles,France,2376,1600,38,55,Yes,20,21787
+Kopaonik,Serbia,2017,1057,30,55,Yes,27,35052
+Aussois,France,2750,1500,29,55,No,8,9228
+First-Grindelwald,Switzerland,2501,1050,55,53,No,9,12720
+Sörenberg-Rothorn-​Dorf,Switzerland,2350,1110,44,53,Yes,17,20930
+Riserva Bianca-Limone Piemonte,Italy,2060,1046,34,52,No,17,20655
+Gitschberg Jochtal,Italy,1354,772,46,51,No,24,23617
+Schilthorn-Mürren-​Lauterbrunnen,Switzerland,2970,796,55,51,No,16,13852
+Pila,Italy,1540,570,42,50,No,17,22154
+Brigels-​Waltensburg-​Andiast,Switzerland,2418,1110,49,50,Yes,13,10030
+Aprica,Italy,2270,1162,38,50,No,16,13965
+Bormio-Cima Bianca,Italy,3012,1225,40,50,Yes,15,17630
+Sedrun-Oberalp,Switzerland,2300,1500,53,50,No,12,12100
+Grosseck-​Speiereck-Mauterndorf-​St. Michael,Austria,2400,1095,41,50,Yes,12,14286
+Hirmentaz-​Les Habères-Bellevaux-​Habère-Poche,France,1610,923,24,50,No,33,29480
+Pragelato,Italy,2700,1335,0,50,No,5,3660
+Porté Puymorens,France,2471,1600,30,50,No,9,7380
+Mythenregion,Switzerland,1070,573,39,50,No,15,12592
+Candanchú,Spain,2236,1514,41,50,No,25,19650
+Zugspitze,Germany,2000,700,45,20,No,10,13150
+Lindvallen-​Högfjället-Sälen-,Sweden,887,579,41,42,Yes,53,50505
+Jasná Nízke Tatry-Chopok,Slovakia,2004,943,39,44,Yes,32,35225
+Tandådalen-​Hundfjället-Sälen-,Sweden,872,572,41,45,Yes,46,42636
+Sheregesh-Kemerovo,Siberia (Russia),1270,670,0,0,No,12,19919
+Gazprom Mountain Resort-Laura-– Esto-Sadok-Sotschi-,Southern Russia,949,547,32,20,Yes,18,27874
+Steinplatte-​Winklmoosalm-Waidring-​Reit im Winkl,Austria,1860,740,46,42,No,14,31940
+Rigi,Switzerland,1315,439,44,9,No,7,6500
+Métabief,France,1420,1000,26,40,No,28,24745
+Latemar-Obereggen-​Pampeago-​Predazzo,Italy,1540,1050,47,48,Yes,22,36540
+Mariborsko Pohorje-Maribor,Slovenia,1327,325,31,41,Yes,22,23436
+Praz de Lys-​Sommand-Taninges-​Mieussy-,France,1966,1240,29,45,No,24,26205
+Espace Dôle-La Dôle-​Les Tuffes,France,1678,1137,27,28,No,21,19380
+Kreischberg,Austria,2118,868,44,42,No,14,18808
+Garmisch-Classic-Garmisch-Partenkirchen,Germany,2050,732,43,40,No,19,21090
+Aiguille du Midi-Chamonix-,France,3842,1035,60,0,No,5,4820
+Carezza Ski,Italy,2337,1200,41,40,No,20,19200
+Pizol-Bad Ragaz-​Wangs,Switzerland,510,490,51,43,Yes,11,12786
+SuperBesse-Puy de Sancy,France,1850,1300,32,43,Yes,22,21245
+Stöten,Sweden,830,443,41,32,No,19,19250
+Fellhorn-​Kanzelwand-Oberstdorf-​Riezlern,Austria,1967,920,45,34,Yes,17,22076
+Idre Fjäll,Sweden,890,588,40,41,Yes,25,24760
+Großglockner Resort Kals-Matrei,Austria,2422,933,47,37,No,17,18276
+Pamporovo,Bulgaria,1926,1620,28,29,Yes,13,14266
+Abetone-​Val di Luce,Italy,1892,1240,30,44,No,17,24056
+Gerlitzen,Austria,1000,520,45,41,No,18,22220
+Paganella-Andalo,Italy,2125,1030,40,33,Yes,18,23996
+Melchsee-Frutt-Kerns-,Switzerland,2255,1080,44,36,Yes,11,14150
+Vall de Núria,Spain,1964,912,30,7,No,6,4840
+Arêches-Beaufort-,France,2300,1050,29,50,No,14,14462
+Špindlerův Mlýn,Czech Republic,1235,702,34,24,Yes,23,21638
+Les Mosses-​La Lécherette,Switzerland,1870,1445,31,40,No,14,10540
+Cimone-Montecreto-​Sestola-​Le Polle,Italy,1976,900,35,50,No,20,23746
+Luchon Superbagnères,France,1440,635,34,32,No,13,15965
+Lélex-​Crozet,France,900,640,28,28,No,19,16750
+Alpika Service,Southern Russia,2228,535,0,25,No,9,18120
+Sinaia,Romania,880,834,32,20,No,9,9864
+Gourette-Eaux Bonnes-,France,2450,1350,38,35,No,12,19660
+Rauriser Hochalmbahnen-Rauris,Austria,2175,940,43,32,No,10,11927
+Hoch-Ybrig-Unteriberg-​Oberiberg,Switzerland,1850,1035,46,50,No,14,16650
+Meran 2000,Italy,1609,648,39,40,No,10,9478
+Nätschen-Andermatt,Switzerland,2344,1444,44,21,No,7,13600
+Albiez-Montrond,France,2200,1500,25,35,No,13,10432
+Tarvisio-Monte Lussari,Italy,1752,754,35,25,Yes,15,17354
+Mount Parnassos-Fterolakka-​Kellaria,Greece,2300,1600,30,36,No,17,20052
+Moelltal Glacier-Mölltaler Gletscher-,Austria,2108,1222,47,17,No,9,15610
+Wendelstein-Brannenburg-​Osterhofen,Germany,1723,791,35,11,No,4,3250
+Glenshee,United Kingdom,900,650,33,36,No,21,16255
+Sulden am Ortler-Solda all'Ortles-,Italy,3250,1900,41,44,Yes,13,15418
+Poiana Brașov,Romania,1799,1021,32,13,Yes,10,11038
+Hinterstoder-Höss,Austria,2000,600,44,40,No,19,18464
+St. Jean Montclar,France,2500,1350,28,50,No,14,13320
+Port del Comte,Spain,2310,1745,33,40,No,16,13750
+Tänndalen,Sweden,1038,743,41,38,No,17,19270
+Feldberg-Seebuck-​Grafenmatt-​Fahl,Germany,1448,888,35,26,No,14,17624
+Pitztal Glacier-Pitztaler Gletscher-,Austria,2685,1740,48,20,No,7,10935
+Tauplitz-Bad Mitterndorf,Austria,896,812,41,42,No,19,18525
+Hochoetz-Oetz,Austria,1410,820,37,36,No,15,17422
+Rosshütte-Seefeld,Austria,2064,1230,44,20,Yes,13,12363
+Malbun,Liechtenstein,2000,1600,42,23,No,9,8800
+Špičák,Czech Republic,1202,854,23,8,Yes,12,7390
+Riesneralm-Donnersbachwald,Austria,1820,950,40,30,No,8,6880
+Berwang-​Bichlbach-​Rinnen,Austria,1743,1067,42,36,Yes,15,15623
+Glungezer-Tulfes,Austria,2304,950,30,23,No,8,7116
+Fanningberg,Austria,2115,1497,41,24,No,6,7162
+Turracher Höhe,Austria,2205,1400,45,42,Yes,18,18268
+Indoor ski area Snow Arena-Druskininkai,Lithuania,163,97,29,1,Yes,5,2800
+Niedere-Andelsbuch-​Bezau,Austria,1715,655,31,10,No,8,6043
+Wurzeralm-Spital am Pyhrn,Austria,1870,810,41,22,No,8,9048
+Präbichl-Vordernberg,Austria,1608,1100,37,20,No,6,6624
+Pfelders-Moos in Passeier-,Italy,2502,1601,33,18,Yes,6,4300
+Mitterdorf-Almberg-– Mitterfirmiansreut,Germany,1139,841,23,6,Yes,10,6266
+Lavarone,Italy,1650,1150,36,27,No,15,12040
+Geißkopf-Bischofsmais,Germany,1116,835,24,8,Yes,9,6950
+Donovaly-Park Snow-,Slovakia,1361,914,26,11,Yes,25,13620
+Indoor ski area Snow Dome Bispingen,Germany,122,90,37,0,Yes,3,3710
+Sudelfeld-Bayrischzell,Germany,1563,850,33,32,No,15,17477
+Grüntenlifte-Kranzegg-Rettenberg-,Germany,1700,900,31,16,No,9,7420
+Grebenzen-St. Lambrecht,Austria,1870,1010,34,12,No,7,6790
+Kirchdorf,Austria,780,640,30,5,No,4,3570
+Nebelhorn-Oberstdorf,Germany,2224,828,44,11,No,8,5990
+Lachtal,Austria,2222,1600,41,25,No,10,10620
+Ramsau am Dachstein-Rittisberg,Austria,1636,1035,36,25,No,15,10815
+Eibenstock,Germany,745,650,18,1,Yes,3,1980
+Bürchen-​Törbel-Moosalp,Switzerland,2550,1480,39,25,Yes,9,7470
+Guzet,France,2100,1100,31,40,No,15,11130
+Schetteregg-Egg,Austria,1325,1070,32,10,No,8,6642
+Fichtelberg-Oberwiesenthal,Germany,1215,911,26,15,Yes,9,7384
+Bellwald,Switzerland,1600,1204,45,36,No,6,4620
+Dry slopes Dayz Søhøjlandets Skicenter,Denmark,100,80,36,0,No,0,0
+Indoor ski area Skidome Denmark – Randers (planned),Denmark,120,10,0,3,No,0,0
+Dry slopes Indoorski – Rødovre,Denmark,53,50,0,0,No,0,0
+Dry slopes Ski Arena – Aarhus,Denmark,23,20,0,0,No,0,0
+Copenhagen (planned),Denmark,0,0,0,0,No,0,0
+Østerlars (Bornholm),Denmark,110,72,18,0,No,0,1220
+Hoch Hylkedal – Kolding,Denmark,45,20,15,0,No,0,600
+Klewenalp-​Stockhütte-Beckenried-​Emmetten,Switzerland,1200,436,45,40,No,14,13394
+Schöneck-Skiwelt-,Germany,760,620,20,3,Yes,6,4324
+Indoor ski area SnowWorld Landgraaf,Netherlands,210,150,42,1,Yes,19,5231
+Štrbské Pleso,Slovakia,1840,1376,35,8,No,8,7700
+Gaissau-Hintersee,Austria,1567,750,35,34,No,9,10110
+Kellerjoch-Schwaz,Austria,857,545,29,10,No,6,3786
+Hochrindl-Sirnitz,Austria,1886,1540,32,20,Yes,12,7350
+La Bresse-Hohneck,France,1350,872,29,21,Yes,18,21515
+Silbersattel-Steinach,Germany,842,590,19,4,No,4,3300
+Lammeralm-Langenwang,Austria,1230,980,29,8,No,11,2800
+Kitzbüheler Horn,Austria,2000,800,40,17,No,9,10110
+Myrkdalen,Norway,1060,450,44,30,Yes,9,10279
+Loser-Altaussee,Austria,1770,850,40,33,No,8,11114
+Christlum-Achenkirch,Austria,1800,950,44,27,No,13,12843
+Grasgehren-Bolgengrat,Germany,1700,1400,25,11,No,6,5140
+Götschen-Bischofswiesen,Germany,1307,880,25,8,Yes,3,4000
+Torrent-Leukerbad,Switzerland,2610,1411,46,47,No,14,11390
+Monte Popolo-Eben im Pongau,Austria,1612,862,36,6,No,4,4550
+Jochgrimm-Passo Oclini-,Italy,2250,1850,17,7,No,8,3540
+Alpe Lusia-Moena-​Bellamonte,Italy,2340,1370,47,27,No,10,16280
+Unternberg-Ruhpolding-,Germany,1417,710,20,2,Yes,4,3350
+Diavolezza-​Lagalb,Switzerland,3006,2091,59,31,No,11,3970
+Kubínska hoľa,Slovakia,1396,720,26,14,No,5,11480
+Gålå,Norway,1148,800,43,19,Yes,8,7600
+Kvitfjell,Norway,1039,185,45,34,Yes,16,17952
+Molines-en-Queyras-​Saint-Véran,France,2800,1750,29,33,No,14,12290
+Tatranská Lomnica,Slovakia,2190,888,35,11,No,4,12480
+Kanin-Sella Nevea-​Bovec,Slovenia,1103,460,35,10,No,11,11670
+Postwiesen Skidorf-Neuastenberg,Germany,730,605,26,8,Yes,9,6762
+Oberjoch-Bad Hindelang-– Iseler,Germany,1559,1130,38,32,Yes,6,12388
+Mönichkirchen-​Mariensee,Austria,1450,870,35,13,No,6,6741
+Grächen,Switzerland,2864,1619,48,42,No,15,13860
+Puigmal,France,2700,1830,0,32,No,13,11865
+Kranzberg-Mittenwald,Germany,1350,980,29,15,Yes,10,5850
+Wetterstein lifts-Wettersteinbahnen-– Ehrwald,Austria,1530,1000,43,23,No,10,5425
+Stuhleck-Spital am Semmering,Austria,1774,777,42,24,Yes,9,14400
+Glacier 3000 / Les Diablerets,Switzerland,3016,1343,54,25,No,10,10260
+Rossfeld - Berchtesgaden - Oberau,Germany,1554,1300,20,8,Yes,4,3229
+Les Arcs /​ Peisey-Vallandry (Paradiski),France,3226,1200,50,200,Yes,52,82641
+Tignes - ​Val d'Isère,France,3456,1550,56,300,No,86,145461
+Livigno – Carosello/​Mottolino,Italy,2798,1816,46,115,Yes,44,50850
+Courchevel (Les 3 Vallées),France,3230,1110,61,600,Yes,165,250860
+Les Gets (Les Portes du Soleil),France,2466,1000,51,580,Yes,174,252280
+Avoriaz (Les Portes du Soleil),France,2466,1000,51,580,Yes,174,252280
+Châtel (Les Portes du Soleil),France,2466,1000,51,580,Yes,174,252280
+Kitzbühel / Kirchberg (KitzSki),Austria,2000,800,55,179,Yes,54,92510
+Obergurgl-Hochgurgl,Austria,3082,1793,50,110,Yes,28,38861
+Hafjell,Norway,1030,195,45,44,Yes,18,21060
+Voss,Norway,960,284,43,40,No,11,11900
+Kaunertal Glacier (Kaunertaler Gletscher),Austria,3108,2180,43,21,No,9,13200
+Geilosiden Geilo,Norway,1178,800,44,34,Yes,24,14225
+Ski Juwel Alpbachtal Wildschönau,Austria,2025,830,46,93,Yes,47,52789
+Reither Kogel-Reith im Alpbachtal,Austria,1280,670,46,4,Yes,5,4070
+Ellmau (SkiWelt Wilder Kaiser-Brixental),Austria,1957,620,49,284,Yes,105,147250
+Westendorf (SkiWelt Wilder Kaiser-Brixental),Austria,1957,620,49,284,Yes,105,147250
+Söll (SkiWelt Wilder Kaiser-Brixental),Austria,1957,620,49,284,Yes,105,147250
+Kitzsteinhorn - Kaprun,Austria,3029,1978,50,41,No,17,33598
+Saint Martin de Belleville (Les 3 Vallées),France,3230,1110,61,600,Yes,165,250860
+La Plagne (Paradiski),France,3167,1207,50,225,No,100,136733
+Schladming (4-Berge-Skischauke),Austria,2015,745,52,123,Yes,46,71842
+Alpe d'Huez,France,3330,1125,51,250,Yes,68,92097
+Formigal,Spain,2251,1501,44,137,No,20,29450
+Axamer Lizum,Austria,2340,1580,38,30,No,10,13322
+Bansko,Bulgaria,2560,990,30,48,Yes,17,24233
+Baqueira / ​Beret,Spain,2510,1471,50,150,No,35,53997
+Hochkönig-Maria Alm/​Dienten/​Mühlbach,Austria,1900,800,52,112,Yes,35,49232
+Bonneval sur Arc,France,3000,1850,28,25,No,11,8213
+Brauneck Lenggries ​Wegscheid,Germany,1712,700,35,34,Yes,21,19100
+Brunni - Engelberg,Switzerland,2040,1050,38,7,No,5,2577
+Madonna di Campiglio-​Pinzolo-​Folgàrida-​Marilleva,Italy,2504,770,50,150,Yes,65,102340
+Le Lys - Cauterets,France,1360,932,37,36,No,11,13038
+Pont d'Espagne - Cauterets,France,1756,1516,35,4,No,4,4150
+Cervinia,Switzerland,3899,1562,81,322,No,63,93464
+Grands Montets-Argentière (Chamonix),France,3275,1252,62,29,No,9,15756
+Balme-​Les Autannes-Vallorcine-​Le Tour,France,2270,1453,51,29,No,12,14860
+Crans-Montana,Switzerland,1510,540,60,140,No,23,29500
+Rinerhorn (Davos Klosters),Switzerland,2490,1454,48,40,No,7,6900
+Jakobshorn (Davos Klosters),Switzerland,2590,1540,58,41,No,13,15800
+Pischa (Davos Klosters),Switzerland,2483,1800,40,0,No,1,800
+Madrisa (Davos Klosters),Switzerland,2611,1142,52,26,No,10,6640
+Cortina d'Ampezzo,Italy,2924,1224,52,120,No,40,48089
+St. Moritz - Corviglia,Switzerland,3057,1720,69,155,No,28,31220
+Espace Diamant-Les Saisies/​Notre-Dame-de-Bellecombe/​Praz sur Arly/​Flumet/​Crest-Voland,France,2069,1000,40,192,Yes,83,90852
+Fonna Glacier,Norway,1460,1200,42,5,No,1,1200
+Galtür,Austria,2300,1600,40,43,Yes,13,15442
+Glencoe Mountain,United Kingdom,1070,360,35,24,No,8,5800
+Golm,Austria,2110,650,48,26,No,11,16240
+Grandvalira – Pas de la Casa/​Grau Roig/​Soldeu/​El Tarter/​Canillo/​Encamp,Andorra,2640,1710,47,210,Yes,72,99017
+El Tarter – Pas de la Casa/​Grau Roig/​Soldeu/​Canillo/​Encamp (Grandvalira),Andorra,2640,1710,47,210,Yes,72,99017
+Gresse en Vercors,France,1751,1245,19,20,No,11,6808
+Wasserngrat (Gstaad),Switzerland,1900,1275,54,9,No,1,900
+Wispile (Gstaad),Switzerland,1941,1046,54,8,Yes,5,3601
+Heiti - Gsteig (Gstaad),Switzerland,1370,1227,54,1,No,1,600
+Arosa Lenzerheide,Switzerland,2865,1229,63,225,Yes,50,63936
+Villars -​ Gryon / Les Diablerets,Switzerland,2120,1224,54,100,No,33,38905
+Verbier (4 Vallées),Switzerland,3330,821,66,412,Yes,75,85022
+Nendaz (4 Vallées),Switzerland,3330,821,66,412,Yes,75,85022
+Thyon (4 Vallées),Switzerland,3330,821,66,412,Yes,75,85022
+Veysonnaz (4 Vallées),Switzerland,3330,821,66,412,Yes,75,85022
+Ischgl,Austria,2872,1377,52,238,No,45,88215
+Kleine Scheidegg / ​Männlichen-Grindelwald / ​Wengen,Switzerland,2320,944,55,102,No,26,29250
+Kranjska Gora,Slovenia,1215,800,33,20,Yes,20,17774
+Kuühtai,Austria,2520,1938,37,41,Yes,12,17254
+La Grave - La Meije,France,3534,1470,49,3,No,3,1460
+Espace San Bernardo – La Rosière/​La Thuile,France,2641,1176,43,160,No,40,53669
+La Thuile / La Rosière - Espace San Bernardo,Italy,2641,1176,43,160,No,40,53669
+La Tania-Val Thorens/​Les Menuires/​Méribel (Les 3 Vallées),France,3230,1110,61,600,Yes,165,250860
+The Lecht,United Kingdom,775,637,33,18,Yes,13,9750
+Les Deux alpes,France,3560,1280,49,200,Yes,54,72334
+Les Contamines-​Hauteluce,France,2437,1164,39,120,Yes,24,33972
+Les Orres,France,2720,1550,35,100,No,20,21020
+Courmayeur / Chécrouit -​ Val Veny,Italy,2755,1205,46,41,No,18,24497
+Zermatt - Matterhorn,Switzerland,3899,1562,81,322,No,63,93464
+Mayrhofen-Penken/​Ahorn/​Rastkogel/​Eggalm,Austria,2500,630,52,136,No,57,82432
+Nevis Range,United Kingdom,655,91,36,20,No,12,10350
+Obertauern,Austria,2313,1630,46,100,Yes,31,50797
+Levi,Finland,531,206,43,37,Yes,29,30110
+Ruka,Finland,492,291,43,18,Yes,22,22915
+Hedelands Skicenter,Denmark,78,33,17,0,No,0,1600
+Saalbach Hinterglemm Leogang Fieberbrunn (Skicircus),Austria,2096,830,53,270,Yes,71,135104
+Fieberbrunn - Saalbach Hinterglemm Leogang (Skicircus),Austria,2096,830,53,270,Yes,71,135104
+Saas-Fee,Switzerland,3573,1800,63,100,No,25,25160
+Sainte-Foy-Tarentaise,France,2620,1550,31,41,No,6,7100
+Val Senales Glacier,Italy,3212,2011,44,27,No,14,15838
+Serfaus-Fiss-Ladis,Austria,2820,1200,49,198,Yes,68,78460
+Serre Chevalier-Briançon/​Chantemerle/​Villeneuve-la-Salle/​Le Monêtier-les-Bains,France,2800,1200,49,250,Yes,61,72066
+Sestriere ski resort (Via Lattea),Italy,2749,1372,48,400,Yes,71,96433
+Silvretta Montafon,Austria,2430,700,53,113,No,53,67472
+Wagrain (Ski amedé),Austria,1980,740,52,115,No,49,75398
+Flachau (Ski amedé),Austria,1980,740,52,115,No,49,75398
+Valchiavenna – Madesimo/​Campodolcino,Italy,1550,1082,39,48,Yes,13,26060
+St. Anton (Ski Arlberg),Austria,2811,1270,53,304,No,113,145127
+Lech (Ski Arlberg),Austria,2811,1270,53,304,No,113,145127
+Zürs (Ski Arlberg),Austria,2811,1270,53,304,No,113,145127
+St. Christoph (Ski Arlberg),Austria,2811,1270,53,304,No,113,145127
+Sierra Nevada-Pradollano,Spain,3282,2100,47,107,Yes,21,59205
+St. Johann in Tirol,Austria,1604,659,44,43,Yes,20,21100
+Bad Gastein,Austria,2300,860,52,86,No,26,32699
+Kronplatz (Plan de Corones),Italy,2275,973,54,119,Yes,32,71205
+Gargellen,Austria,2300,1423,47,28,No,9,10650
+Hochschwarzeck,Germany,1385,1030,22,4,No,4,2880
+Arcalís-Ordino (Vallnord),Andorra,2625,1940,37,30,No,15,14240
+Hemsedal,Norway,1450,620,46,44,Yes,21,22921
+Sölden,Austria,3340,1350,53,144,Yes,36,70370
+Stubai Glacier,Austria,3212,1697,46,38,No,26,39784
+Elfer Neustift,Austria,2080,981,29,7,No,4,2980
+Val Gardena,Italy,2518,1236,54,175,No,84,121914
+Val Thorens (Les 3 Vallées),France,3230,1110,61,600,Yes,165,250860
+Montgenèvre (Via Lattea),France,2749,1372,48,400,Yes,71,96433
+Sauze d’Oulx (Via Lattea),Italy,2749,1372,48,400,Yes,71,96433
+Gressoney - La-Trinite (Monterosa Ski),Italy,3275,1212,43,132,No,30,31984
+Champoluc (Monterosa Ski),Italy,3275,1212,43,132,No,30,31984
+Zauchensee,Austria,2188,1000,52,44,No,19,25988
